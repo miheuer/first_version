@@ -1,2 +1,2 @@
-# first_version http://
+# first_version 
 my first version
